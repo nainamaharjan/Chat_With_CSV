@@ -1,0 +1,7 @@
+sentence-transformers
+pandas
+guidance==0.1.15
+pydantic
+pandasai
+chromadb
+streamlit==1.22.0

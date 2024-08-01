@@ -1,0 +1,3 @@
+2024-07-30 23:49:20,944 - root-MainThread-DEBUG - Logging config file: /home/dell/PycharmProjects/talk-with-csv/logging.ini
+2024-07-30 23:49:20,949 - root-MainThread-DEBUG - Config file: /home/dell/PycharmProjects/talk-with-csv/config.ini
+2024-07-30 23:49:21,234 - numexpr.utils-MainThread-INFO - NumExpr defaulting to 8 threads.
